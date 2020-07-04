@@ -17,12 +17,28 @@ h1 {
 .date {
     text-align: center;
     color: #8e24aa;
+    font-size: 40px;
     padding-bottom: 10px;
 }
 .time {
     text-align: center;
     padding-bottom: 25px;
     color: #8e24aa;
+}
+.search {
+    padding: 4px;
+    margin: 0 auto;
+    width: 400px;
+    padding: 10px;
+    background: #37474f;
+    border-radius: 30px;
+}
+.search-txt {
+    border: none;
+    background: none;
+    outline: none;
+    color: #718792;
+    font-size: 20px;
 }
 nav {
     text-align: center;
