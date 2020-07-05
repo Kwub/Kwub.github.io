@@ -37,6 +37,7 @@ h1 {
     border: none;
     background: none;
     outline: none;
+    width: 100%;
     color: #718792;
     font-size: 20px;
 }
