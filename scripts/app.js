@@ -31,5 +31,5 @@ function clock() {
     document.getElementById("minute").innerHTML = mins + ":";
     document.getElementById("seconds").innerHTML = secs;
 }
-
-setInterval(clock, 100)
+document.getElementById('srch').focus();
+setInterval(clock, 100);
