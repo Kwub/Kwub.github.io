@@ -6,31 +6,31 @@ html {
     height: 100%;
     justify-content: center;
     margin: 0;
-    background-color: #102027;
+    background-color: #282a36;
 }
 h1 {
     font-size: 40px;
-    color: #8e24aa;
+    color: #6272a4;
     text-align: center;
     padding-bottom: 0;
 }
 .date {
     text-align: center;
-    color: #8e24aa;
+    color: #6272a4;
     font-size: 40px;
     padding-bottom: 10px;
 }
 .time {
     text-align: center;
     padding-bottom: 25px;
-    color: #8e24aa;
+    color: #6272a4;
 }
 .search {
     padding: 4px;
     margin: 0 auto;
     width: 400px;
     padding: 10px;
-    background: #37474f;
+    background: #44475a;
     border-radius: 30px;
 }
 .search-txt {
@@ -38,7 +38,7 @@ h1 {
     background: none;
     outline: none;
     width: 100%;
-    color: #718792;
+    color: #6272a4;
     font-size: 20px;
 }
 nav {
@@ -49,28 +49,28 @@ nav {
     width: 220px;
 }
 p.work {
-    color: #e53935;
+    color: #50fa7b;
     text-align: center;
     margin: 10px;
 }
 p.keebs {
-    color: #1e88e5;
+    color: #ff79c6;
     text-align: center;
     margin: 10px;
 }
 p.media {
-    color: #43a047;
+    color: #f1fa8c;
     text-align: center;
     margin: 10px;
 }
 a {
-    color: #62727b;
+    color: #f8f8f2;
     list-style: none;
     text-decoration: none;
     text-align: center;
 }
 a:hover {
-    color: #c158dc;
+    color: #bd93f9;
 }
 ul {
     list-style-type: none;
